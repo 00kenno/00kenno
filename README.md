@@ -4,3 +4,6 @@
 - OpenWrtやArchlinuxに触れたことあり（知識はほぼないけど）
 - 大学に入ってからはRaspberry Pi Pico Wを使ったWebServerを作ってみたり，Google Apps Scriptを触ったりしている
 - 自分も含めマネジメントをしっかりやるのが目標
+
+# 引継ぎ
+- このGitHubの各リポジトリを参照してほしい
