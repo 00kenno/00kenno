@@ -11,11 +11,16 @@
 # Task
 ---
 ## 優先度: 高
-- 経費申請フォーム改造
-- 桁焼き器の製作
-- Unityの習得
-- TORICA_WebServer_libの作成
-~~JLCPCBブログ作成~~
+~~経費申請フォーム改造
+
+~~桁焼き器の製作
+
+~~Unityの習得
+
+~~TORICA_WebServer_libの作成
+
+~~JLCPCBブログ作成
+
 ---
 ## 優先度: 中
 - プログラムファイル分割
