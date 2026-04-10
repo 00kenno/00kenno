@@ -4,8 +4,8 @@
 
 # Products
 ### [Expence Report Form](https://github.com/00kenno/Expense_Report_Form)
-> Google Apps Script による経費精算申請フォーム
+Google Apps Script による経費精算申請フォーム
 ### [SerialWeb](https://github.com/TORICA-Org/SerialWeb)
-> キャプティブポータルをデバッグモニターとして用いるためのライブラリ
+キャプティブポータルをデバッグモニターとして用いるためのライブラリ
 ### [TORICA Simulator v26.x.x](https://github.com/TORICA-Org/TORICA_Sim_Unity)
-> 鳥人間コンテスト滑空機部門に出場するパイロットの訓練用VRシミュレーター
+鳥人間コンテスト滑空機部門に出場するパイロットの訓練用VRシミュレーター
