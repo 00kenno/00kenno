@@ -1,4 +1,4 @@
-# About me
+# [About me](https://github.com/00kenno/my-private-repository)
 - 東京理科大学鳥人間サークル鳥科 26代電装班長兼シミュ班班長
 - 工学部 機械工学科
 
