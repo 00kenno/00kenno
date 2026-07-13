@@ -13,3 +13,9 @@ Google Apps Script による経費精算申請フォーム
 キャプティブポータルをデバッグモニターとして用いるためのライブラリ
 ### [TORICA Simulator v26.x.x](https://github.com/TORICA-Org/TORICA_Sim_Unity)
 鳥人間コンテスト滑空機部門に出場するパイロットの訓練用VRシミュレーター
+
+# Snippets
+### Arduino IDE: Additional boards manager URLs
+```
+https://files.seeedstudio.com/arduino/package_seeeduino_boards_index.json,https://github.com/earlephilhower/arduino-pico/releases/download/global/package_rp2040_index.json,https://github.com/espressif/arduino-esp32/tree/master/libraries,https://siliconlabs.github.io/arduino/package_arduinosilabs_index.json
+```
