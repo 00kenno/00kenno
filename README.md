@@ -11,7 +11,7 @@
 Google Apps Script による経費精算申請フォーム
 ### [SerialWeb](https://github.com/TORICA-Org/SerialWeb)
 キャプティブポータルをデバッグモニターとして用いるためのライブラリ
-### [TORICA Simulator v26.x.x](https://github.com/TORICA-Org/TORICA_Sim_Unity)
+### [TORICA Simulator](https://github.com/torica-org/torica-sim2026-unity)
 鳥人間コンテスト滑空機部門に出場するパイロットの訓練用VRシミュレーター
 
 # Snippets
