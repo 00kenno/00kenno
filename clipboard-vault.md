@@ -1,4 +1,4 @@
-# Cheat Sheet
+# Clipboard Vault
 
 ### Arduino IDE: Additional boards manager URLs
 ```
