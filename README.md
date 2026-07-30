@@ -14,4 +14,4 @@ Google Apps Script による経費精算申請フォーム
 ### [TORICA Simulator (based on BR Simulator)](https://github.com/torica-org/torica-sim2026-unity)
 鳥人間コンテスト滑空機パイロット訓練用VRシミュレーターのUnityプロジェクト
 
-# [Cheat Sheet](/cheat-sheet)
+# [Clipboard Vault](/clipboard-vault)
