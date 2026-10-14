@@ -13,7 +13,7 @@ Google Apps Script による経費精算申請フォーム
 キャプティブポータルをデバッグモニターとして用いるためのライブラリ
 ### [TORICA Simulator (based on BR Simulator)](https://github.com/torica-org/torica-sim2026-unity)
 鳥人間コンテスト滑空機パイロット訓練用VRシミュレーターのUnityプロジェクト
-### [GitMemo](https://00kenno.github.io/gitmemo/)
-Google Drive上の `gitmemo` ファイルとリアルタイム同期する、ブラウザ完結型のマークダウンメモ帳
+### [GitMemo](https://github.com/00kenno/gitmemo)
+Google Drive上の `gitmemo` ファイルとリアルタイム同期するブラウザ完結型のマークダウンメモ帳
 
 # [Clipboard Vault](/clipboard-vault)
